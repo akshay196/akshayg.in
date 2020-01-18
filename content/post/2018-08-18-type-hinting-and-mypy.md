@@ -83,5 +83,5 @@ beta: Tuple[int, str, float] = (1, "text", 3.6)
 2. [pyre-check.org](pyre-check.org) (Another Type checher)
 3. [MonkeyType](https://github.com/instagram/MonkeyType): System for Python
    that genarate static type annotations
-4. [https://docs.python.org/3/library/typing.html](https://docs.python.org/3/library/typing.html)
+4. [Python typing library](https://docs.python.org/3/library/typing.html)
 5. The [talk](https://www.youtube.com/watch?v=pMgmKJyWKn8) about type checking
