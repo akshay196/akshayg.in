@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Akshay Gaikwad"
+title = "Akshay's Blog"
 theme = "beautifulhugo"
 
 [permalinks]
@@ -25,7 +25,7 @@ theme = "beautifulhugo"
 
 [Author]
   name = "Akshay Gaikwad"
-  website = "akshayg.in"
+  website = "https://akshayg.in"
   # email = "mail@akshayg.in"
   facebook = "akshay196"
   github = "akshay196"
