@@ -1,0 +1,3 @@
+- [ ] Add email in site config file.
+- [ ] Add about page.
+- [ ] Front page content. Add _index.md in content.
