@@ -2,7 +2,7 @@
 title: Open Source Discussion platform
 subtitle: Let's discuss, share, experience
 date: 2018-03-03
-tags: [foss]
+tags: [foss, event]
 ---
 
 I am part of the RIT India Linux Users' Group (an acronym as
