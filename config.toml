@@ -23,6 +23,7 @@ theme = "beautifulhugo"
   delayDisqus = true
   showRelatedPosts = true
   since = 2017
+  enableAnalytics = true
 
 [Author]
   name = "Akshay Gaikwad"
