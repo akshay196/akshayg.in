@@ -28,13 +28,13 @@ This can be simplified as:
 ```go
 func main() {
     const (
-        monday    = iota // = 1
-        tuesday          // = 2
-        wednesday        // = 3
-        thursday         // = 4
-        friday           // = 5
-        saturday         // = 6
-        sunday           // = 7
+        monday    = iota // = 0
+        tuesday          // = 1
+        wednesday        // = 2
+        thursday         // = 3
+        friday           // = 4
+        saturday         // = 5
+        sunday           // = 6
     )
 }
 ```
