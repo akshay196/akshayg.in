@@ -2,6 +2,7 @@
 title: Get started with gRPC
 date: 2021-08-07
 tags: [grpc, go]
+toc: true
 ---
 
 <!-- ToC -->
