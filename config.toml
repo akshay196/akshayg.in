@@ -108,7 +108,7 @@ uglyURLs = false
     # Personal website, default: baseURL
     website = "https://akshayg.in/"
     # Twitter
-    twitter = "AkshayG196"
+    twitter = "akshayg96_"
 
 # Related content
 [related]
@@ -362,7 +362,7 @@ uglyURLs = false
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "AkshayG196"
+    siteTwitter = "akshayg96_"
     # Note: used for Twitter Cards
 
 
